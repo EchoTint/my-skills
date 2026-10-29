@@ -1,0 +1,30 @@
+# Local credentials and machine state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime and build output
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+*.log
+dist/
+output/
+tmp/
+.cache/
+*.zip
+
+# Personal reading material and learning records
+book-wiki/
+*.pdf
+*.epub
+*.mobi
+*.azw3

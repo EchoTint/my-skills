@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reading Study Coach"
+  short_description: "Books, papers, topics, practice, and spaced review"
+  default_prompt: "Use $reading-study-coach to identify my material, clarify my goal, and guide reading, practice, and review with evidence-backed progress."
